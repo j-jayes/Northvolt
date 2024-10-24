@@ -1,0 +1,20 @@
+---
+title: "Planning"
+format: html
+---
+
+## Context
+
+Northvolt, established in 2016 in Stockholm, Sweden, is a battery manufacturing company focused on producing sustainable lithium-ion batteries. Its goal is to create the world's greenest batteries, emphasizing recycling and minimizing the carbon footprint. Northvolt's key facility, *Northvolt Ett*, is located in Skellefteå, northern Sweden, and is central to its production operations. This site also hosts *Revolt Ett*, a plant dedicated to recycling critical battery materials, aiming to support a fully integrated circular battery production system【6†source】【7†source】.
+
+In terms of recent developments, Northvolt has faced significant financial and operational challenges. The company secured a $5 billion loan earlier this year to expand its *Northvolt Ett* factory, but the planned expansion was recently put on hold due to economic pressures and changing market conditions. This has led to a reduction in workforce, with 1,600 jobs cut, impacting Sweden's labor market【6†source】【7†source】. Additionally, Northvolt's subsidiary responsible for the expansion project filed for bankruptcy, adding to the company's struggles【9†source】.
+
+Despite these challenges, Northvolt remains a key player in the global push for electrification and aims to ramp up production to meet commitments with major automakers like BMW, Scania, and Volvo【7†source】【9†source】.
+
+## Sources of Data
+
+### Housing
+
+[Real Property Register from lantmateriet](https://www.lantmateriet.se/en/real-property/)
+
+[Real Estate Transactions](https://www.unitedrobots.ai/products/se/real-estate)
