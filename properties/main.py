@@ -46,8 +46,8 @@ def main(location_ids):
     df = pd.json_normalize(all_property_data, sep='_')
 
     # Save to Parquet file
-    df.to_parquet('properties.parquet', index=False)
-    logger.info("Data saved to properties.parquet")
+    df.to_parquet('properties/properties.parquet', index=False)
+    logger.info("Data saved to properties/properties.parquet")
 
 if __name__ == '__main__':
     # Check if location_ids is provided as a command-line argument
